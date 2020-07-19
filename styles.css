@@ -1,0 +1,12 @@
+    .first {
+        color: blueviolet;
+        width: 400px;
+    }
+    /* comment */
+    .second {
+        color: blue;
+        width: 400px;
+        font-size: 12px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 1em;
+    }
