@@ -1,6 +1,28 @@
-    .first {
+    body {
+        background-color: rgb(220, 239, 240);
+    }
+    #Heading {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         color: blueviolet;
         width: 400px;
+        text-decoration: underline;
+        margin: 1em;
+}
+    .Contact {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: darkslategrey;
+    }
+    .Abilities {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: darkslategrey;
+    }
+    .Skills {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: darkslategrey;
+    }
+    .Languages {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: darkslategrey;
     }
     /* comment */
     .second {
